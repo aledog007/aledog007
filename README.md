@@ -1,4 +1,4 @@
-[![MasterHead] ([https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?width=1281&format=mp4&s=5c332986d0dbb226d8c789e313ea869a1bb9bed9](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2F4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif%3Fwidth%3D1281%26format%3Dmp4%26s%3D5c332986d0dbb226d8c789e313ea869a1bb9bed9)) 
+[![MasterHead] 
 <h1 align="center">Hi 👋, I'm Alessio Giuseppe Fano</h1>
 <h3 align="center">I'm software developer in my first year of my apprenticeship at Swisscom.</h3>
 
