@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessio Giuseppe Fano</h1>
 <h3 align="center">I'm software developer in my first year of my apprenticeship at Swisscom.</h3>
 
-<p algin="right"> <img src="https://komarev.com/ghpvc/?username=aledog007&label=Profile%20views&color=0e75b6&style=flat" alt="aledog007" /> </p>
-
 - 🌱 I’m currently learning **Powershell**
 
 - 👨‍💻 All of my projects are available at [alessiofano.ch](alessiofano.ch)
