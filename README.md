@@ -1,3 +1,4 @@
+[![Masterhead](https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?width=1281&format=mp4&s=5c332986d0dbb226d8c789e313ea869a1bb9bed9)
 <h1 align="center">Hi 👋, I'm Alessio Giuseppe Fano</h1>
 <h3 align="center">I'm software developer in my first year of my apprenticeship at Swisscom.</h3>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **alessio.fano@gmx.ch**
 
-- ⚡ Fun fact **I love coffee, motorbikes, music and photography**
+- ⚡ Fun fact **I love coffee, motorcycle, cars, music and photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
