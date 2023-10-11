@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/MvMxQ1a.gif" alt="Gif">
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="programming gif">
 <h1 align="center">Hi 👋, I'm Alessio Giuseppe Fano</h1>
 <h3 align="center">I'm software developer in my first year of my apprenticeship at Swisscom.</h3>
 
