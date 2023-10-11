@@ -1,4 +1,4 @@
-[![MasterHead] https://i.imgur.com/MvMxQ1a.gif
+[![MasterHead] (https://i.imgur.com/MvMxQ1a.gif)
 <h1 align="center">Hi 👋, I'm Alessio Giuseppe Fano</h1>
 <h3 align="center">I'm software developer in my first year of my apprenticeship at Swisscom.</h3>
 
