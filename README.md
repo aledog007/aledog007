@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alessio-giuseppe-fano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessio-giuseppe-fano" height="30" width="40" /></a>
 <a href="https://instagram.com/justcallmefano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justcallmefano" height="30" width="40" /></a>
-<a href="https://discord.gg/708329944551522325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aledog007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
