@@ -25,6 +25,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aledog007&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aledog007&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aledog007&theme=tokyonight)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aledog007s&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=bf91f3&area=true&hide_border=true)](https://github.com/aledog007/github-readme-activity-graph)
 
 </div>
