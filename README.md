@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Powershell**
 
-- 👨‍💻 All of my projects are available at [alessiofano.ch](alessiofano.ch)
+- 👨‍💻 All of my projects are available at [alessiofano.ch](https://alessiofano.ch/)
 
 - 💬 Ask me about **everything I will try to solve**
 
