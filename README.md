@@ -61,9 +61,6 @@
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/>
   </a>
-  <a href="https://cloud-init.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cloudinit-logo.png/600px-Cloudinit-logo.png" alt="cloud-init" width="40" height="40"/>
-  </a>
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/>
   </a>
